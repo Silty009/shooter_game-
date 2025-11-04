@@ -86,7 +86,7 @@ font1 = font.SysFont('Arial', 70)
 win = font1.render('YOU WIN!', True, (225, 215, 0))
 
 
-lose = font1.render('YOU LOSE!', True, (225, 215, 0))
+lose = font1.render('YOU BIG LOOOOSER!>:)', True, (200, 215, 0))
 
 font2 = font.SysFont('Arial', 25) #обязательно заменить класс font на SysFontfont2 = font.SysFont('Arial', 25) 
 
